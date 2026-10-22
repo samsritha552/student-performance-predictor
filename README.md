@@ -45,6 +45,18 @@ The project uses Python and Scikit-learn to train a Linear Regression model and 
    
 
 4. Open the local URL displayed in your terminal.
+   
+
+
+## Application Screenshots
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Prediction and Model Evaluation
+![Prediction and Graph](prediction-graph.png)
+
+
 
 ## Model Evaluation
 The current model uses Linear Regression.
