@@ -20,9 +20,14 @@ The project uses Python and Scikit-learn to train a Linear Regression model and 
 - Streamlit
 
 ## Dataset
-This project uses the Student Performance dataset from the UCI Machine Learning Repository.
+### Downloading the Dataset
 
-Dataset source: https://archive.ics.uci.edu/dataset/320/student+performance
+1. Visit the [UCI Student Performance dataset](https://archive.ics.uci.edu/dataset/320/student+performance).
+2. Download and extract the dataset ZIP file.
+3. Create a folder named `data` in the project directory.
+4. Place `student-mat.csv` inside the `data` folder.
+5. Install the dependencies and run the app using the commands below.
+
 
 ## How to Run the Project
 
